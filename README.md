@@ -1,4 +1,5 @@
 #ZEA BLOCKCHAIN
 ## new era blockchain
 
-<img width="1408" height="768" alt="zea" src="https://github.com/user-attachments/assets/2e76d842-0485-43e2-a921-22034909ad23" />
+<img width="795" height="517" alt="zea-blockchain" src="https://github.com/user-attachments/assets/cd8aac41-07c6-46dc-bd8b-940af1fce707" />
+
